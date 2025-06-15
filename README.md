@@ -30,9 +30,11 @@ Streamlit UI를 통해 사용자는 자연어로 질문을 입력하고, GPT 기
 
 ## 주요 파일 구조
 
-├── clust_faiss_img_embed.py # 이미지 단독 임베딩 + FAISS + KMeans 클러스터링
-├── clust_faiss_imgtxt_embed.py # 이미지 + 텍스트 멀티모달 임베딩 + FAISS + KMeans
-├── faiss_clip_cluster_prompt.py # Streamlit UI + GPT 기반 질문 생성 및 검색 결과 출력
-├── data/ # 이미지(.jpg, .png) + 설명 텍스트(.txt)
-├── embedding/ # 저장된 임베딩(.pth), 인덱스(.index), 클러스터 결과(.json)
+```
+├── clust_faiss_img_embed.py           # 이미지 단독 임베딩 + FAISS + KMeans 클러스터링
+├── clust_faiss_imgtxt_embed.py        # 이미지 + 텍스트 멀티모달 임베딩 + FAISS + KMeans
+├── faiss_clip_cluster_prompt.py       # Streamlit UI + GPT 기반 질문 생성 및 검색 결과 출력
+├── data/                              # 이미지(.jpg, .png) + 설명 텍스트(.txt)
+├── embedding/                         # 저장된 임베딩(.pth), 인덱스(.index), 클러스터 결과(.json)
 └── README.md
+```
