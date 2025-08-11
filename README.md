@@ -41,3 +41,12 @@
 
 ### 데모 UI 예시
 ![데모 화면](demo_image.png)
+
+## 📚 참고 자료
+- [PlugIR 논문](https://arxiv.org/abs/2304.09810)
+- [OpenCLIP](https://github.com/mlfoundations/open_clip)
+- [FAISS](https://github.com/facebookresearch/faiss)
+
+## 📬 연락처
+- **개발자**: 태훈 (yth91111@naver.com)
+- **GitHub**: [taehoon1223](https://github.com/taehoon1223)
