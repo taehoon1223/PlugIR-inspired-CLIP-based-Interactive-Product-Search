@@ -25,3 +25,10 @@
 ---
 
 ## 📂 프로젝트 구조
+📦 PlugIR-inspired-CLIP-based-Interactive-Product-Search
+┣ 📂 data # 예시 이미지/텍스트 데이터
+┣ 📂 src # 소스 코드
+┣ 📂 assets # 데모 이미지/GIF
+┣ 📜 requirements.txt
+┣ 📜 app.py # Streamlit 메인 앱
+┗ 📜 README.md
