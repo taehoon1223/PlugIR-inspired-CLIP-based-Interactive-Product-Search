@@ -43,7 +43,7 @@
 ![데모 화면](demo_image.png)
 
 ## 📚 참고 자료
-- [PlugIR 논문](https://arxiv.org/abs/2304.09810)
+- [PlugIR 논문](https://arxiv.org/abs/2406.03411)
 - [OpenCLIP](https://github.com/mlfoundations/open_clip)
 - [FAISS](https://github.com/facebookresearch/faiss)
 
