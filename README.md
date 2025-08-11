@@ -32,3 +32,12 @@
  ┣ 📜 requirements.txt  
  ┣ 📜 app.py         # Streamlit 메인 앱  
  ┗ 📜 README.md  
+
+
+## ​ 프로젝트 아키텍처 & 데모 화면
+
+### 시스템 아키텍처
+![시스템 구조](System_Architecture_image.png)
+
+### 데모 UI 예시
+![데모 화면](demo_image.png)
